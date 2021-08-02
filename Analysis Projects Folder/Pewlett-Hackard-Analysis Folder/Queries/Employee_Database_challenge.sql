@@ -52,6 +52,8 @@ CREATE TABLE dept_emp (
 FOREIGN KEY (emp_no) REFERENCES employees(emp_no)
 );
 
+--"Retirement Titles Table"
+
 SELECT e.emp_no,
 		e.first_name,
 		e.last_name,
