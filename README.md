@@ -2,7 +2,10 @@
 
 ## **OVERVIEW**
 
-The purpose of the analysis challenge was to analyze Pewlett Hackard's wave of retiring employees per title and to identify which employees are eligible for the mentorship program. We were able to use our database software and the SQL query language to filter the parameters we required to analyze the data.
+The purpose of the analysis challenge was to analyze Pewlett Hackard's wave of retiring employees per title and to identify which employees are eligible for the mentorship program. We were able to use our database software pgAdmin and the SQL query language to filter the parameters we required to analyze the data.
+
+![Schema](https://github.com/rainmannyc/Pewlett-Hackard-Analysis/blob/57853bc763cc78b325eedd2485972214fe506002/EmployeeDB.png)
+
 
 ### **Results**
 
