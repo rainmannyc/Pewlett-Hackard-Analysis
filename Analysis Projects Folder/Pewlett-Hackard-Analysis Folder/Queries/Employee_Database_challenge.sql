@@ -89,6 +89,8 @@ FROM retiring_emp
 WHERE to_date = '9999-01-01'
 ORDER BY retiring_emp.to_date, retiring_emp.emp_no ASC
 
+--UNIQUE TITLES TABLE & RETIRING TITLES TABLE
+
 SELECT emp_no, first_name, last_name, title
 INTO unique_titles
 FROM retiring_emp;
